@@ -1,0 +1,11 @@
+{
+  "name": "qr_code_scanner",
+  "private": true,
+  "author": "Marco Roth <marco.roth@intergga.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "@andreekeberg/imagedata": "^1.0.2",
+    "jsqr": "^1.4.0",
+    "pdf-to-png-converter": "^3.6.3"
+  }
+}
