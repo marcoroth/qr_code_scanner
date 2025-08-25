@@ -6,4 +6,4 @@ gemspec
 
 gem "minitest", "~> 5.25"
 gem "rake", "~> 13.3"
-gem "rubocop", "~> 1.79"
+gem "rubocop", "~> 1.80"
