@@ -4,6 +4,6 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "minitest", "~> 5.25"
+gem "minitest", "~> 5.26"
 gem "rake", "~> 13.3"
 gem "rubocop", "~> 1.80"
