@@ -13,7 +13,7 @@ GEM
     lint_roller (1.1.0)
     logger (1.7.0)
     minitest (5.27.0)
-    nodo (1.8.1)
+    nodo (1.8.2)
       logger
     parallel (1.27.0)
     parser (3.3.10.0)
