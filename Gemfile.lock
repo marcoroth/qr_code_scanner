@@ -12,6 +12,8 @@ GEM
     language_server-protocol (3.17.0.5)
     lint_roller (1.1.0)
     logger (1.7.0)
+    maxitest (7.1.0)
+      minitest (>= 6.0.0, < 6.1.0)
     minitest (6.0.1)
       prism (~> 1.5)
     nodo (1.8.2)
@@ -49,7 +51,7 @@ PLATFORMS
   x86_64-darwin-23
 
 DEPENDENCIES
-  minitest (~> 6.0)
+  maxitest (~> 7.0)
   qr_code_scanner!
   rake (~> 13.3)
   rubocop (~> 1.82)
