@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["rubygems_mfa_required"] = "true"
   spec.metadata["source_code_uri"] = "https://github.com/marcoroth/qr_code_scanner"
-  spec.metadata["changelog_uri"] = "https://github.com/marcoroth/qr_code_scanner/blob/main/CHANGELOG.md"
+  spec.metadata["changelog_uri"] = "https://github.com/marcoroth/qr_code_scanner/releases"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
