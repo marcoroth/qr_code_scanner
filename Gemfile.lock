@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    qr_code_scanner (0.1.0)
+    qr_code_scanner (0.1.1)
       nodo
 
 GEM
