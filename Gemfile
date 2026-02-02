@@ -6,4 +6,4 @@ gemspec
 
 gem "maxitest", "~> 7.1"
 gem "rake", "~> 13.3"
-gem "rubocop", "~> 1.82"
+gem "rubocop", "~> 1.84"
