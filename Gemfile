@@ -4,6 +4,6 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "maxitest", "~> 7.1"
+gem "maxitest", "~> 7.2"
 gem "rake", "~> 13.4"
 gem "rubocop", "~> 1.91"
