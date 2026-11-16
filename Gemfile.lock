@@ -8,14 +8,16 @@ GEM
   remote: https://rubygems.org/
   specs:
     ast (2.4.3)
+    drb (2.2.3)
     json (3.0.2)
     language_server-protocol (3.17.0.6)
     lint_roller (1.1.0)
     logger (1.7.0)
-    maxitest (7.1.1)
-      minitest (>= 6.0.0, < 6.1.0)
-    minitest (6.0.1)
-      prism (~> 1.5)
+    maxitest (7.2.0)
+      minitest (>= 6.0.0, < 6.2.0)
+    minitest (6.1.0)
+      drb (~> 2.0)
+      prism (>= 1.5, < 3)
     nodo (1.8.2)
       logger
     parallel (1.28.0)
@@ -51,7 +53,7 @@ PLATFORMS
   x86_64-darwin-23
 
 DEPENDENCIES
-  maxitest (~> 7.1)
+  maxitest (~> 7.2)
   qr_code_scanner!
   rake (~> 13.4)
   rubocop (~> 1.91)
